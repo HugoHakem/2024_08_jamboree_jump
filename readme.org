@@ -1,6 +1,7 @@
 #+TITLE: Jamboree
 
 * Overall goal
+Generate analyses/components that contribute to JUMP production
 * Specific tasks
 - [ ] Generate a general report of JUMP metadata:
   - [ ] How many different MoAs are available?
@@ -14,3 +15,5 @@
   - [ ] What compounds pathways do we cover?
   - [ ] Do morphological profiles match compounds with similar activity?
   - [ ] How well do MoAs cluster compared to others? (Can this be answered through MAP?)
+* Resources
+- Spreadsheet: https://docs.google.com/spreadsheets/d/1oQyTtCe1M4vkWmuy5uANJ42JPFgUmjV0ZhHByp0h3JA/edit?usp=sharing 
