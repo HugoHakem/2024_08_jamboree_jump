@@ -1,0 +1,16 @@
+#+TITLE: Jamboree
+
+* Overall goal
+* Specific tasks
+- [ ] Generate a general report of JUMP metadata:
+  - [ ] How many different MoAs are available?
+  - [ ] What is the distribution of plates per source?
+- [ ] Develop a metric+method to quantify the biases for any pair of samples
+- [ ] Write a set of examples on how to do different things:
+  - [ ] Fetch one or multiple images
+  - [ ] How to plot plates to find plate effects
+  - [ ] How do we get a quick and informative overview of the data?
+- [ ] MoAs (ChemoInformatics)
+  - [ ] What compounds pathways do we cover?
+  - [ ] Do morphological profiles match compounds with similar activity?
+  - [ ] How well do MoAs cluster compared to others? (Can this be answered through MAP?)
